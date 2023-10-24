@@ -3,7 +3,7 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@remisiki&theme=dracula&layout=compact&langs_count=10&hide=other,html,css,text,json,markdown,jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -11,9 +11,9 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 143 Contributions in the Year 2023
+> 🏆 146 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 38 Public Repositories 
  > 
@@ -22,8 +22,6 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Tokyo
-
 🔥 Editors: 
 Vim                      13 hrs 51 mins      █████████████░░░░░░░░░░░░   52.23 % 
 WebStorm                 9 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.65 % 
@@ -35,22 +33,6 @@ Android Studio           20 mins             ░░░░░░░░░░░�
 Linux                    26 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
 
-```text
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/remisiki/remisiki/master/assets/bar_graph.png)
-
-
- Last Updated on 24/10/2023 04:24:30 UTC
+ Last Updated on 24/10/2023 04:39:07 UTC
 <!--END_SECTION:waka-->
