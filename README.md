@@ -23,13 +23,12 @@
 
 ```text
 🔥 Editors: 
-Vim                      2 hrs 30 mins       ████████████████████████░   95.44 % 
-Sublime Text             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 37 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/11/2023 00:48:54 UTC
+ Last Updated on 26/11/2023 00:54:07 UTC
 <!--END_SECTION:waka-->
