@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
@@ -23,12 +23,12 @@
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/11/2023 00:54:07 UTC
+ Last Updated on 26/11/2023 21:50:30 UTC
 <!--END_SECTION:waka-->
