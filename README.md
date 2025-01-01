@@ -11,6 +11,8 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 49 Public Repositories 
@@ -21,12 +23,12 @@
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/12/2024 01:04:22 UTC
+ Last Updated on 01/01/2025 01:10:26 UTC
 <!--END_SECTION:waka-->
