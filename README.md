@@ -3,15 +3,13 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@remisiki&theme=dracula&layout=compact&langs_count=10&hide=other,html,css,text,json,markdown,jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C065%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C067%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 39 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -23,14 +21,14 @@
 
 ```text
 🔥 Editors: 
-PyCharm                  11 hrs 19 mins      ███████████████████████░░   91.70 % 
-Vim                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-WebStorm                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+PyCharm                  10 hrs 44 mins      ███████████████████████░░   92.13 % 
+WebStorm                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Vim                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 💻 Operating System: 
-Linux                    12 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2025 01:21:53 UTC
+ Last Updated on 25/07/2025 01:21:33 UTC
 <!--END_SECTION:waka-->
