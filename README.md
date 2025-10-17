@@ -3,6 +3,8 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@remisiki&theme=dracula&layout=compact&langs_count=10&hide=other,html,css,text,json,markdown,jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C197%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -28,5 +30,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/10/2025 01:11:04 UTC
+ Last Updated on 17/10/2025 01:10:30 UTC
 <!--END_SECTION:waka-->
