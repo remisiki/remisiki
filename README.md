@@ -3,8 +3,6 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@remisiki&theme=dracula&layout=compact&langs_count=10&hide=other,html,css,text,json,markdown,jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C227%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -33,5 +31,5 @@ Linux                    11 hrs 44 mins      ███████████�
 ```
 
 
- Last Updated on 16/11/2025 01:19:45 UTC
+ Last Updated on 17/11/2025 01:15:47 UTC
 <!--END_SECTION:waka-->
